@@ -48,3 +48,10 @@ for i in xrange(0, len(tup)):
             print(tup[i][j])
     else:
         print(tup[i])
+
+# 0--99
+n = 0
+while n < 100:
+    print(n)
+
+    n = n + 1
